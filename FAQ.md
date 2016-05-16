@@ -13,6 +13,7 @@ http://www.ruanyifeng.com/blog/2015/03/react.html
 ### 2. Flex 布局：###
 1. Flex 布局教程：语法篇
 http://pan.baidu.com/play/video#video/path=%2FWorks%2FReact.JS%E4%B8%AD%E6%96%87%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B%2F11.1%20%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E5%92%8C%E5%B7%A5%E5%85%B7.mp4&t=2   
+2. http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
 
 ### 3. ES6 ###
 1. https://babeljs.io/repl/
@@ -20,3 +21,4 @@ http://pan.baidu.com/play/video#video/path=%2FWorks%2FReact.JS%E4%B8%AD%E6%96%87
 ### 4. Native Entension ###
 1. https://js.coach/react-native/react-native-svg
 2. https://rnplay.org/apps/lIVMng
+
